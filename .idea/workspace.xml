@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9feba53a-5a76-4814-8374-b857d662423e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9feba53a-5a76-4814-8374-b857d662423e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Color-Detection-master" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.yolo_for_video">
@@ -120,10 +118,10 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1613328820508">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1613583242014">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.736@0.0.1366.736" timestamp="1613328820508" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.736@0.0.1366.736" timestamp="1613583242014" />
     <state width="1345" height="140" key="GridCell.Tab.0.bottom" timestamp="1613331653409">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
